@@ -1,0 +1,24 @@
+<!--
+  Ecological journal issues feed ver.0.1
+  https://github.com/uribo/ecological-feed
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>PLANT SCIENCE</title>
+    </head>
+    <body>
+        <outline text="Latest Issues" title="Latest Issues">
+            <outline type="rss" text="journal-names" title="journal-names" xmlUrl="" htmlUrl=""/>
+            <outline type="rss" text="Plant Systematics and Evolution" title="Plant Systematics and Evolution" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=606&amp;channel-name=Plant%20Systematics%20and%20Evolution" htmlUrl="http://link.springer.com"/>
+            <outline type="rss" text="Perspectives in Plant Ecology, Evolution and Systematics" title="Perspectives in Plant Ecology, Evolution and Systematics" xmlUrl="http://rss.sciencedirect.com/publication/science/14338319/" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Plant Species Biology" title="Plant Species Biology" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1442-1984" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291442-1984"/>
+            <outline type="rss" text="Trends in Plant Science" title="Trends in Plant Science" xmlUrl="http://rss.sciencedirect.com/publication/science/13601385/" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Journal of Experimental Botany - recent issues" title="Journal of Experimental Botany - recent issues" xmlUrl="http://jxb.oxfordjournals.org/rss/recent.xml" htmlUrl="http://jxb.oxfordjournals.org"/>
+            <outline type="rss" text="Plant Ecology and Evolution" title="Plant Ecology and Evolution" xmlUrl="http://api.ingentaconnect.com/content/botbel/plecevo/latest?format=rss" htmlUrl="http://www.ingentaconnect.com/content/botbel/plecevo/latest"/>
+            <outline type="rss" text="American Journal of Botany" title="American Journal of Botany" xmlUrl="http://www.amjbot.org/rss/recent.xml" htmlUrl="http://www.amjbot.org"/>
+            <outline type="rss" text="Botany" title="Botany" xmlUrl="http://www.nrcresearchpress.com/action/showFeed?ui=1ad&amp;mi=3ge3i4&amp;ai=ss&amp;jc=cjb&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.nrcresearchpress.com/loi/cjb?ai=ss&amp;mi=3ge3i4&amp;af=R"/>
+        </outline>
+           </body>
+</opml>

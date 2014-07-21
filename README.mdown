@@ -1,0 +1,31 @@
+Ecological journal issues feed
+======
+
+生態学関係の学術雑誌でpublishedされた新着論文のfeedをまとめています。
+
+## USAGE
+
+DOWNLOAD -> 
+
+### Feedlyへの登録
+
+### Reederへの登録
+
+## JOURNAL LISTS
+
+随時追加。
+
+* Nature
+* PLOS ONE
+* PNAS
+* Science
+* Acta Oecologia
+* AoB Plants
+
+
+### TOP JOURNALS
+
+### ECOLOGY
+
+### ANALYSIS AND STATISTICS
+

@@ -1,0 +1,20 @@
+<!--
+  Ecological journal issues feed ver.0.1
+  https://github.com/uribo/ecological-feed
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>CONSERVATION</title>
+    </head>
+    <body>
+        <outline text="Latest Issues" title="Latest Issues">
+            <outline type="rss" text="Biodiversity and Conservation" title="Biodiversity and Conservation" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10531&amp;channel-name=Biodiversity%20and%20Conservation" htmlUrl="http://link.springer.com"/>
+            <outline type="rss" text="Biological Conservation" title="Biological Conservation" xmlUrl="http://rss.sciencedirect.com/publication/science/00063207" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Conservation Letters" title="Conservation Letters" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1755-263X" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291755-263X"/>
+            <outline type="rss" text="Conservation Genetics" title="Conservation Genetics" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10592&amp;channel-name=Conservation%20Genetics" htmlUrl="http://link.springer.com"/>
+            <outline type="rss" text="Conservation Biology" title="Conservation Biology" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1523-1739" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291523-1739"/>
+        </outline>
+           </body>
+</opml>

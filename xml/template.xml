@@ -1,0 +1,16 @@
+<!--
+  Ecological journal issues feed ver.0.1
+  https://github.com/uribo/ecological-feed
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>template</title>
+    </head>
+    <body>
+        <outline text="Latest Issues" title="Latest Issues">
+              <outline type="rss" text="journal-names" title="journal-names" xmlUrl="" htmlUrl=""/>
+        </outline>
+           </body>
+</opml>

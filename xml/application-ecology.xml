@@ -1,0 +1,20 @@
+<!--
+  Ecological journal issues feed ver.0.1
+  https://github.com/uribo/ecological-feed
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>APPLICATION ECOLOGY</title>
+    </head>
+    <body>
+        <outline text="Latest Issues" title="Latest Issues">
+            <outline type="rss" text="Ecological Applications" title="Ecological Applications" xmlUrl="http://www.esajournals.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ecap" htmlUrl="http://www.esajournals.org/loi/ecap?af=R"/>
+            <outline type="rss" text="Evolutionary Applications" title="Evolutionary Applications" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1752-4571" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291752-4571"/>
+            <outline type="rss" text="Journal of Applied Ecology" title="Journal of Applied Ecology" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2664" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291365-2664"/>
+            <outline type="rss" text="Applied Vegetation Science" title="Applied Vegetation Science" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1654-109X" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291654-109X"/>
+            <outline type="rss" text="Basic and Applied Ecology" title="Basic and Applied Ecology" xmlUrl="http://rss.sciencedirect.com/publication/science/14391791/" htmlUrl="http://www.sciencedirect.com"/>
+        </outline>
+           </body>
+</opml>

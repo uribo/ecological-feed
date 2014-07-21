@@ -1,0 +1,19 @@
+<!--
+  Ecological journal issues feed ver.0.1
+  https://github.com/uribo/ecological-feed
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>FOREST RESEARCH</title>
+    </head>
+    <body>
+        <outline text="Latest Issues" title="Latest Issues">
+            <outline type="rss" text="Canadian Journal of Forest Research" title="Canadian Journal of Forest Research" xmlUrl="http://www.nrcresearchpress.com/action/showFeed?ui=0&amp;mi=3o75vg&amp;ai=s0&amp;jc=cjfr&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.nrcresearchpress.com/loi/cjfr?ai=s0&amp;mi=3o75vg&amp;af=R"/>
+            <outline type="rss" text="Forest Ecology and Management" title="Forest Ecology and Management" xmlUrl="http://rss.sciencedirect.com/publication/science/03781127/" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Trees" title="Trees" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=468&amp;channel-name=Trees" htmlUrl="http://link.springer.com"/>
+            <outline type="rss" text="Journal of Forest Research" title="Journal of Forest Research" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10310&amp;channel-name=Journal%20of%20Forest%20Research" htmlUrl="http://link.springer.com"/>
+        </outline>
+           </body>
+</opml>
